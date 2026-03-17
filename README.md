@@ -179,4 +179,4 @@ MIT — free to use, modify, and deploy.
 ## 👤 Author
 
 Built by **Albi Saif** — AI/CV Engineer  
-[LinkedIn](www.linkedin.com/in/albi-s-5aa24a2a6) 
+[LinkedIn](https://www.linkedin.com/in/albi-s-5aa24a2a6/) 
