@@ -152,12 +152,6 @@ python-docx==1.1.2
 
 ## 🌐 Deploy Free on Streamlit Cloud
 
-1. Push this repo to GitHub (make sure `.env` is in `.gitignore`)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub account
-4. Select your repo → `app.py` as the main file
-5. Add your `GROQ_API_KEY` in the **Secrets** section
-6. Click **Deploy** — live URL in ~2 minutes 🚀
 
 ---
 
