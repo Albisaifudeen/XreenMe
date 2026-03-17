@@ -75,7 +75,7 @@ XreenMe automates and explains both — using real AI (not just keyword counting
 XreenMe/
 ├── app.py                    # Landing page — mode selector + hero
 ├── requirements.txt          # All dependencies
-├── .env                      # Your API key (never commit this!)
+├── .env                      # Your API key 
 ├── .env.example              # Template — safe to commit
 ├── .gitignore
 ├── README.md
@@ -122,7 +122,7 @@ Create a `.env` file:
 ```
 GROQ_API_KEY=your_groq_key_here
 ```
-Get a **free** key at [console.groq.com](https://console.groq.com) — no credit card needed.
+Get a **free** key at [console.groq.com](https://console.groq.com) 
 
 ### 4. Run
 ```bash
