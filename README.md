@@ -142,7 +142,7 @@ pdfplumber==0.11.1
 sentence-transformers==3.0.1
 scikit-learn==1.5.0
 groq==0.9.0
-torch==2.1.0
+torch==2.2.2
 transformers==4.38.0
 python-dotenv==1.0.1
 python-docx==1.1.2
