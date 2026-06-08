@@ -9,12 +9,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-**Try XreenMe Live** — *(add your Streamlit Cloud link after deployment)*
-
----
-
 ## 🧠 What is XreenMe?
 
 XreenMe solves a real problem on both sides of hiring:
