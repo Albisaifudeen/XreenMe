@@ -95,7 +95,7 @@ XreenMe/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/xreenme.git
+git clone https://github.com/Albusaifudeen/xreenme.git
 cd xreenme
 ```
 
